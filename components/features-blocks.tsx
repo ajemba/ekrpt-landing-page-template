@@ -9,6 +9,12 @@ export default function FeaturesBlocks() {
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6">
         <div className="py-12 md:py-20">
 
+          {/* Section header */}
+          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
+            <h2 className="h2 mb-4">Solutions </h2>
+            <p className="text-xl text-gray-600">Real USA mobile carriers.</p>
+          </div>
+
           {/* Items */}
           <div className="max-w-sm mx-auto grid gap-6 md:grid-cols-2 lg:grid-cols-3 items-start md:max-w-2xl lg:max-w-none">
 
@@ -91,7 +97,7 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Privacy from Big T...</h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Online privacy</h4>
               <p className="text-gray-600 text-center">Hide your numbers, Don't let companies resell your personal info.</p>
             </div>
 
