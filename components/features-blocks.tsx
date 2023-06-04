@@ -11,8 +11,8 @@ export default function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Explore our solutions</h2>
-            <p className="text-xl text-gray-600">Our phone numbers are from real USA mobile phone carriers and will work with any available service.</p>
+            <h3 className="h2 mb-4">we offer </h3>
+            <p className="text-xl text-gray-600">Real USA mobile carriers.</p>
           </div>
 
           {/* Items */}
