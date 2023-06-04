@@ -43,8 +43,7 @@ export default function Features() {
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
                 <h3 className="h3 mb-3">Stay Anonymous</h3>
-                <p className="text-xl text-gray-600">Bypass text verifications and sms verifications
-Bypass phone calls & voice verifications, Get Real US numbers for all major online platforms and mobile apps. <br>Longterm numbers & rentals support.</br> </p>
+                <p className="text-xl text-gray-600">Bypass text verifications and sms verifications - Bypass phone calls & voice verifications, Get Real US numbers for all major online platforms and mobile apps. Longterm numbers & rentals support. </p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
