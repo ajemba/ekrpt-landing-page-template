@@ -32,7 +32,7 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Explore our solutions</h1>
+            <h1 className="h2 mb-4">Features</h1>
             <p className="text-xl text-gray-600">Our phone numbers are from real USA mobile phone carriers and will work with any available service.</p>
           </div>
 
@@ -43,7 +43,7 @@ export default function Features() {
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
                 <h3 className="h3 mb-3">Stay Anonymous</h3>
-                <p className="text-xl text-gray-600">Bypass text verifications and sms verifications - Bypass phone calls & voice verifications, Get Real US numbers for all major online platforms and mobile apps. Longterm numbers & rentals support. </p>
+                <p className="text-xl text-gray-600">Bypass Text SMS & OTP online, Receive calls & voice verifications, Create multiple user profiles. </p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
@@ -54,7 +54,7 @@ export default function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Stay Secure </div>
-                    <div className="text-gray-600">Use our phone numbers to protect your privacy — don't give out yours, Don't let companies resell your personal info. Encrypted communication - Bitcoin accepted.</div>
+                    <div className="text-gray-600">Use our phone numbers to protect your privacy.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -69,7 +69,7 @@ export default function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Automate Task</div>
-                    <div className="text-gray-600">API Access + dedicated support. Integrate and scale your application. Complete API reference.</div>
+                    <div className="text-gray-600">API Access + Integrations to scale your apps.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -84,7 +84,7 @@ export default function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Partner with us </div>
-                    <div className="text-gray-600">Take collaboration to the next level with security and administrative features built for teams. Bulk discounts available.</div>
+                    <div className="text-gray-600">Collaboration with us. Bulk discounts available.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
