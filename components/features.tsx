@@ -32,8 +32,8 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Features</h1>
-            <p className="text-xl text-gray-600">Our phone numbers are from real USA mobile phone carriers and will work with any available service.</p>
+            <h1 className="h2 mb-4">Receive Texts </h1>
+            <p className="text-xl text-gray-600">Bypass Text SMS & OTP online.</p>
           </div>
 
           {/* Section content */}
@@ -42,8 +42,8 @@ export default function Features() {
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Stay Anonymous</h3>
-                <p className="text-xl text-gray-600">Bypass Text SMS & OTP online, Receive calls & voice verifications, Create multiple user profiles. </p>
+                <h3 className="h3 mb-3">Calls & voice </h3>
+                <p className="text-xl text-gray-600">Receive calls & voice verifications. </p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
