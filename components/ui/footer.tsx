@@ -23,16 +23,16 @@ export default function Footer() {
             <h6 className="text-gray-800 font-medium mb-2">Products</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <a href="https://sms.ekrpt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Receive Text & SMS</a>
+                <a href="https://sms.ekrpt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out" target= "_blank" rel= "dofollow">Receive Text & SMS</a>
               </li>
               <li className="mb-2">
-                <a href="https://sms.ekrpt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Receive Voice Calls</a>
+                <a href="https://sms.ekrpt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out" target= "_blank" rel= "dofollow">Receive Voice Calls</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">On Demand</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out" target= "_blank" rel= "dofollow">On Demand</a>
               </li>
               <li className="mb-2">
-                <a href="https://sms.ekrpt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">API</a>
+                <a href="https://sms.ekrpt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out" target= "_blank" rel= "dofollow">API</a>
               </li>
               <li className="mb-2">
                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Web3 Onboarding</a>

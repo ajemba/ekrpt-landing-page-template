@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Simple',
-  description: 'Page description',
+  title: 'Home - Ekrpt.com',
+  description: 'Receive Text, Calls, SMS & OTP Online',
 }
 
 import Hero from '@/components/hero'
