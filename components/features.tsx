@@ -9,16 +9,7 @@ import FeaturesElement from '@/public/images/features-element.png'
 export default function Features() {
   
   const [tab, setTab] = useState<number>(1)
-
   const tabs = useRef<HTMLDivElement>(null)
-
-  const heightFix = () => {
-    if (tabs.current && tabs.current.parentElement) tabs.current.parentElement.style.height = `${tabs.current.clientHeight}px`
-  }
-
-  useEffect(() => {
-    heightFix()
-  }, []) 
 
   return (
     <section className="relative">
