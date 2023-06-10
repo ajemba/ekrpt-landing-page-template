@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export const metadata = {
   title: 'Privacy Policy',
-  description: 'Page description',
+  description: 'Privacy Policy of the website',
 };
 
 export default function PrivacyPolicy() {

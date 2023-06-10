@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Ekrpt.com',
-  description: 'Receive Text, Calls, SMS & OTP Online',
+  title: 'Receive Text, Calls, SMS & OTP Online Real - US Mobile Numbers',
+  description: 'Get Real Mobile Phone Numbers to Verify Your Social Accounts Online',
 }
 
 import Hero from '@/components/hero'
