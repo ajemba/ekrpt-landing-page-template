@@ -15,7 +15,6 @@ const inter = Inter({
 })
 
 export const metadata = {
-  
   title: 'Real US Numbers - Receive Codes Online Verify Your Social Accounts Online',
   description: 'Get Real US Mobile Phone Numbers to Verify Your Social Accounts Online',
   keywords: 'sms verification,voice verification,mobile phone numbers,rental numbers,non-voip us numbers,non voip usa numbers,non virtual usa number,ekrptsms,text verification,non voip number for verification,receive sms online non voip,non voip sms verification,non voip phone number,non voip sms receiver,non voip phone number app,non voip phone number for verification,verified text,sms account verification,account verification,phone verification,text verification',
@@ -35,6 +34,7 @@ export default function RootLayout({
           {children}
           <Banner />
         </div>
+        <Analytics />
       </body>
     </html>
   )

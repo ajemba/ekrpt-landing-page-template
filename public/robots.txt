@@ -1,5 +1,5 @@
 User-Agent: *
-Allow: /
+Allow: /app/og/*
 Disallow: /private/
 
 Sitemap: https://ekrpt.com/sitemap.xml

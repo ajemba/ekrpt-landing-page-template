@@ -29,26 +29,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ekrpt.com/signin</loc>
-
-    <lastmod>2023-06-10T15:02:24.021Z</lastmod>
-
-    
-    <changefreq>weekly</changefreq>
-
-    <priority>0.5</priority>
-  </url>
-    <url>
-    <loc>https://ekrpt.com/signout</loc>
-
-    <lastmod>2023-06-10T15:02:24.021Z</lastmod>
-
-    
-    <changefreq>weekly</changefreq>
-
-    <priority>0.5</priority>
-  </url>
-    <url>
     <loc>https://ekrpt.com/privacy-policy</loc>
 
     <lastmod>2023-06-10T15:02:24.021Z</lastmod>
@@ -57,17 +37,8 @@
 
     <priority>0.5</priority>
   </url>
-    <url>
+  <url>
     <loc>https://ekrpt.com/terms-and-conditions</loc>
-
-    <lastmod>2023-06-10T15:02:24.021Z</lastmod>
-    
-    <changefreq>weekly</changefreq>
-
-    <priority>0.5</priority>
-  </url>
-    <url>
-    <loc>https://ekrpt.com/reset-password</loc>
 
     <lastmod>2023-06-10T15:02:24.021Z</lastmod>
     
