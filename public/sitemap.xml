@@ -75,14 +75,4 @@
 
     <priority>0.5</priority>
   </url>
-    <url>
-    <loc>https://ekrpt.com/nopage</loc>
-
-    <lastmod>2023-06-10T15:02:24.021Z</lastmod>
-
-    
-    <changefreq>weekly</changefreq>
-
-    <priority>0.5</priority>
-  </url>
 </urlset>
