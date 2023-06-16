@@ -30,7 +30,7 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
-            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Get Text & SMS <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">online</span></h1>
+            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Get Real <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">US Numbers</span></h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Our platform let's you verify your favorite websites and apps with real phone numbers , securely and anonymously.</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
