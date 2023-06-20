@@ -13,7 +13,12 @@ import Newsletter from '@/components/newsletter'
 export default function Home() {
   return (
     <>
-      <meta property="og:image" content="http://ekrpt.com/api/og" /> 
+      <meta property="og:title" content="http://ekrpt.com/api/og" />
+      <meta property="og:url" content="http://ekrpt.com/api/og" />
+      <meta property="og:image" content="http://ekrpt.com/api/og" />
+      <meta property="twitter:image" content="https://twitter.com/ekrptsms/status/1671184260504363008" />
+      <meta property="twitter:title" content="https://twitter.com/ekrptsms/status/1671184260504363008" />
+      <meta property="twitter:description" content="https://twitter.com/ekrptsms/status/1671184260504363008" />
       <Hero />
       <Features />
       <FeaturesBlocks />
