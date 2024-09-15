@@ -13,12 +13,12 @@ import Newsletter from '@/components/newsletter'
 export default function Home() {
   return (
     <>
-      <meta property="og:image" content="http://ekrpt.com/api/og" /> 
-      <meta property="twitter:image" content="http://ekrpt.com/images/twitter-image.png" />
-      <meta property="twitter:title" content="Receive Text SMS & OTP Online - US Phone Numbers" />
-      <meta property="twitter:description" content="Get Real US Phone Numbers to Verify Your Social Accounts Online" />
-      <meta property="og:title" content="Receive Text SMS & OTP Online - US Phone Numbers" />
+      <meta property="og:title" content="http://ekrpt.com/api/og" />
       <meta property="og:url" content="http://ekrpt.com/api/og" />
+      <meta property="og:image" content="http://ekrpt.com/api/og" />
+      <meta property="twitter:image" content="https://twitter.com/ekrptsms/status/1671184260504363008" />
+      <meta property="twitter:title" content="https://twitter.com/ekrptsms/status/1671184260504363008" />
+      <meta property="twitter:description" content="https://twitter.com/ekrptsms/status/1671184260504363008" />
       <Hero />
       <Features />
       <FeaturesBlocks />
